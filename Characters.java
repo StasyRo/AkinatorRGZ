@@ -8,4 +8,8 @@ public class Characters {
     public String[] Alise = {"0", "0", "1", "1", "Alise"}; //woman - 0 man - 1; unreal - 0, real - 1; tale - 0, film - 1; inlove - 0, not - 1
     public String[] Getsby = {"1", "1", "1", "0", "Getsby"}; //woman - 0 man - 1; unreal - 0, real - 1; tale - 0, film - 1; inlove - 0, not - 1
     public String [] Buratino = {"1", "0", "0", "0", "Buratino"};
+
+    public void StrangeCharacter() {
+      
+    }
 }

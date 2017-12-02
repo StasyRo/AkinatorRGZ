@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         Monitor m = new Monitor();
         m.print();
+        Characters c = new Characters();
+        c.StrangeCharacter();
     }
 }
